@@ -6,10 +6,10 @@ You can see his original code written in C from the following link.
 
 
 https://github.com/swhitelam/demon
-
+##
 
 
 One demonstration of this paper that astonished me was the Magnetization Reversal with Negative Entropy Production. The study demonstrates that magnetization reversal in the Ising model can be achieved with negative entropy production, implying that work can be extracted from the thermal bath using optimally learned trajectories.
-
+##
 
 [1] Whitelam, Stephen. "Demon in the machine: learning to extract work and absorb entropy from fluctuating nanosystems." Physical Review X 13.2 (2023): 021005.
