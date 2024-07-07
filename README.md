@@ -15,7 +15,7 @@ One demonstration of this paper that astonished me was the Magnetization Reversa
 
 Please note that the code provided here can be hard to interpret. Detailed explanations and documentation will be added soon to help clarify its functionality and usage.
 
-### Heavy Simulation Warning
+
 
 The simulation performed by this code is computationally intensive and may take several days to complete, depending on your system's capabilities. It is recommended to use multiprocessing to leverage multiple CPUs for improved performance. I have included a function that leverages multiprocessing. Functions related to this feature have names containing 'parallel'.
 
