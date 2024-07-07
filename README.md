@@ -1,6 +1,5 @@
 # Demon in the Machine
 
-## The paper
 This is an implementation of Whitelam's paper, "Demon in the Machine: Learning to Extract Work and Absorb Entropy from Fluctuating Nanosystems" in python. [1]
 The paper reports on the use of Monte Carlo and genetic algorithms to train neural networks for feedback control in fluctuating nanosystems.
 
